@@ -1,6 +1,6 @@
 var quotes = [
 
-    "' മച്ചാൻ പൊളിയാണ് ' - imaginary user"
+    "Loading . . . . ."
 
 ]
 
